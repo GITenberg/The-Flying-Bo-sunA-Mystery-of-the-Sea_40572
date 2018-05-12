@@ -1,0 +1,29 @@
+_repo: The-Flying-Bo-sunA-Mystery-of-the-Sea_40572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mason, Arthur
+    birthdate: 1876
+    deathdate: 1955
+    gutenberg_agent_id: '40706'
+    url: http://www.gutenberg.org/2009/agents/40706
+description: ''
+gutenberg_issued: '2012-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Pacific Ocean -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Sailors -- Fiction'
+- !lcc 'PS'
+title: 'The Flying Bo''sun: A Mystery of the Sea'
+url: http://www.gutenberg.org/ebooks/40572
